@@ -1,0 +1,5 @@
+Flask
+Flask-SQLAlchemy
+SQLAlchemy
+Flask_Marshmallow
+Flask_Bcrypt
